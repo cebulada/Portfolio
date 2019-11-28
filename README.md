@@ -10,7 +10,7 @@ ___
 
 ## Getting Started / Installation
 
-View this [website](https://www.google.ca/) on GitHub Pages
+View this [website](https://cebulada.github.io/Portfolio/) on GitHub Pages
 
 Or
 
