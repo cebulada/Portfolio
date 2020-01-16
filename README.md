@@ -8,6 +8,12 @@ ___
 
 ___
 
+## Summary
+
+You have stumbled onto my portfolio hosted on GitHub Pages.  Please go to the [website](https://cebulada.github.io/Portfolio/) for more information and for links to various resources.
+
+___
+
 ## Getting Started / Installation
 
 View this [website](https://cebulada.github.io/Portfolio/) on GitHub Pages
